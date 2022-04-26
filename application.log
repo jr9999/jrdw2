@@ -1,0 +1,21 @@
+INFO   [14:19:27.191] [main] o.e.j.u.log -  Logging initialized @1316ms to org.eclipse.jetty.util.log.Slf4jLog 
+INFO   [14:19:27.251] [main] i.d.s.DefaultServerFactory -  Registering jersey handler with root path prefix: / 
+INFO   [14:19:27.252] [main] i.d.s.DefaultServerFactory -  Registering admin handler with root path prefix: / 
+INFO   [14:19:27.252] [main] i.d.a.AssetsBundle -  Registering AssetBundle with name: assets for path /assets/* 
+INFO   [14:19:27.317] [main] o.h.Version -  HHH000412: Hibernate ORM core version 2.1.0-beta.9 
+INFO   [14:19:27.438] [main] i.d.h.SessionFactoryFactory -  Entity classes: [com.cvent.dw.helloworld.core.Person] 
+INFO   [14:19:27.462] [main] o.h.a.c.Version -  HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+INFO   [14:19:27.779] [main] o.h.d.Dialect -  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect 
+INFO   [14:19:28.327] [main] i.d.s.ServerFactory -  Starting hello-world
+                           web-scale hello world dP for the web
+                                                 88
+  .d8888b. dP.  .dP .d8888b. 88d8b.d8b. 88d888b. 88 .d8888b.
+  88ooood8  `8bd8'  88'  `88 88'`88'`88 88'  `88 88 88ooood8
+  88.  ...  .d88b.  88.  .88 88  88  88 88.  .88 88 88.  ...
+  `88888P' dP'  `dP `88888P8 dP  dP  dP 88Y888P' dP `88888P'
+                                        88
+                                        dP 
+INFO   [14:19:28.442] [main] o.e.j.s.SetUIDListener -  Opened application@17ae13d5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080} 
+INFO   [14:19:28.442] [main] o.e.j.s.SetUIDListener -  Opened admin@69f3e556{HTTP/1.1, (http/1.1)}{0.0.0.0:8081} 
+INFO   [14:19:28.443] [main] o.e.j.u.t.ShutdownThread -  shutdown already commenced 
+INFO   [14:19:28.444] [main] o.e.j.s.Server -  jetty-9.4.46.v20220331; built: 2022-03-31T16:38:08.030Z; git: bc17a0369a11ecf40bb92c839b9ef0a8ac50ea18; jvm 11.0.11+9 
